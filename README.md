@@ -117,7 +117,7 @@ Funded: **$65.5M** | Recovered: **$37.3M**
 
 1.Clone the repository:
 
-git clone https://[github.com/Deepika/financial-loan-analysis.git]
+git clone [(https://github.com/Deepika1289/Tableau/tree/financial-loan-analysis)]
 
 2.Open the .twb or .twbx file in Tableau.
 
