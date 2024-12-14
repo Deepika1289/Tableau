@@ -183,6 +183,12 @@ Transform raw data into powerful insights with this dashboard. 🌟 Let us know 
 **IMAGES OF THE PROJECT**
 
 ![Screenshot 2024-11-17 083258](https://github.com/user-attachments/assets/91773cc9-4091-42df-923f-10981f3eba28)
+
+
 ![Screenshot 2024-11-17 083342](https://github.com/user-attachments/assets/04a2f4c9-9ad2-496e-9e0e-52eb020eafd3)
+
+
+![Screenshot 2024-11-17 083412](https://github.com/user-attachments/assets/3b08970d-4ed9-4dd4-bc71-ea114c7dafa9)
+
 
 
